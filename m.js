@@ -188,7 +188,7 @@ async function fnbots(conn, m, asu) {
             teks += "3. tag\n"
             teks += "4. contact\n"
             teks += "5. me\n"
-            teks += "6. sticker"
+            teks += "6. sticker\n"
             teks += "7. send audio\n"
             teks += "8. send video\n"
             teks += "9. send image\n"
