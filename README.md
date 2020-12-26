@@ -17,8 +17,8 @@ if (txt == "help") {
  }
  ```
  
-installation:
-git clone this repo
-cd whatsapp-bot
-npm i
-node m.js
+## installation:
+1. git clone this repo
+2. cd whatsapp-bot
+3. npm i
+4. node m.js
